@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": "ClickGuard",
+    "subtitle": "Phishing training SAAS (Freelance)",
+    "description": "Software as a Service for small and medium companies to provide security awareness training for employees. It includes 7 modules related to phishing identification and awareness, automated phishing simulated campaigns with GoPhish and an Admin dashboard for consulting campaigns, results and metrics.",
+    "date": "2025-06-15",
+    "image": "/images/ClickGuard.png",
+    "link": "https://www.clickguard.tech"
+  },
+  {
+    "id": 2,
+    "title": "Instituto HAS",
+    "subtitle": "Education web app for a school in Jalisco (Freelance)",
+    "description": "Implemented a web application for a school in Jalisco where the main requirement was to automate most important processes that were previously manual. Students can take their modules self-paced, take their test and pay modules online with Stipe. Administrators have al kind of information and metrics to ensure correct functionality of school and web platform. (Images hosted in AWS)",
+    "date": "2025-05-30",
+    "image": "/images/has.png",
+    "link":"https://www.institutohas.com"
+  },
+  {
+    "id": 3,
+    "title": "ConnectMate",
+    "subtitle": "Software as a Service for call centers (School Project)",
+    "description": "Software as a Service made with AWS infraestructure for improving Call Centers daily operations and initial employee training, reducing operations costs and hiring/training processes with help of KPI's.",
+    "date": "2025-04-22",
+    "image": "",
+    "link": ""
+  }
+]
