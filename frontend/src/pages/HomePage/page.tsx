@@ -38,7 +38,6 @@ const HomePage = () => {
             <div className="w-[20%] flex flex-row justify-between mb-3">
                 <Social hoverHref={LinkedinHover} href="https://www.linkedin.com/in/fernando-garcia-tejeda/" imageUrl={LinkedinWhite} />
                 <Social hoverHref={GithubHover} href="https://github.com/fernandogarcia2504" imageUrl={GithubWhite} />
-                <Social hoverHref={PortfolioWhite} href="https://www.linkedin.com/in/fernando-garcia-tejeda/" imageUrl={PortfolioWhite} />
             </div>
         </div>
     )
