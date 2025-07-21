@@ -1,0 +1,70 @@
+{
+    "projects": [
+        {
+            "id":1,
+            "title":"Networking project (School project)",
+            "subtitle":"Consulting simulation for a hospital network across Mexico",
+            "description":"Built secure network infrastructure for simulated hospital across 3 cities ensuring 99.999% availability. Configured routers, switches, ACLs, and implemented subnetting, firewall rules and AWS cloud integration. Achieved seamless high-availability networking with cybersecurity best practices and performance optimization.",
+            "image":"",
+            "date": "2025-02/2025-05",
+            "link":""
+        },
+        {
+            "id":2,
+            "title":"CTF challenges",
+            "subtitle":"CTF in platforms like Hack the box and Pico CTF",
+            "description":"Participated in CTFs solving real-world vulnerability simulations, mostly web exploitation. Used penetration tools like Metasploit and Burp Suite to identify and exploit misconfigurations. Improved skills in vulnerability assessment, enumeration, privilege escalation, and exploit development.",
+            "image":"",
+            "date": "2023-08/current",
+            "link":""
+        },
+        {
+            "id":3,
+            "title":"ITESM Hackathon",
+            "subtitle":"School hackathon",
+            "description":"Participated in a hackathon hosted by ITESM that featured 40 teams and was divided into Red Team and Blue Team activities. Identify vulnerabilities in a web application, exploit them to capture hidden flags, and accumulate points to rank among the top teams. Used a range of cybersecurity techniques and tools, including cryptographic analysis, metadata extraction from images, network and web scanning. Collaborated with teammates to divide roles effectively and strategize attacks to maximize scoring opportunities.",
+            "image":"",
+            "date": "2024-10",
+            "link":""
+        },
+        {
+            "id": 4,
+            "title": "ClickGuard (Freelance)",
+            "subtitle": "Phishing training SAAS (Freelance)",
+            "description": "Software as a Service for small and medium companies to provide security awareness training for employees. It includes 7 modules related to phishing identification and awareness, automated phishing simulated campaigns with GoPhish and an Admin dashboard for consulting campaigns, results and metrics.",
+            "date": "2024-12/current",
+            "image": "/images/ClickGuard.png",
+            "link": "https://www.clickguard.tech"
+        }
+    ],
+    "certifications":[
+        {
+            "id":1,
+            "title":"Google Cybersecurity",
+            "date":"2024-12"
+        },
+        {
+            "id":2,
+            "title":"Cisco CCNA",
+            "date":"2023-2024"
+        },
+        {
+            "id":3,
+            "title":"Splunk 101/102",
+            "date":"2024"
+        },
+        {
+            "id":4,
+            "title":"Cybersecurity diploma by Tecnologico de Monterrey",
+            "date":"2024-08/2024-11"
+        },
+        {
+            "id":5,
+            "title":"Pursuing Security +",
+            "date":"2024/current"
+        }
+    ]
+}
+
+
+

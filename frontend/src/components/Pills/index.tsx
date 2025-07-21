@@ -21,7 +21,7 @@ const Pills = ({ title }: IPills) => {
   return (
     <div
       style={{ "--hover-color": current.color } as React.CSSProperties}
-      className="group relative bg-[#d4d4d4]/10 border border-white backdrop-blur-sm transition-all duration-500 ease-in-out rounded-md w-1/5 py-1.5 hover:bg-white hover:w-[30%]"
+      className="group relative bg-[#d4d4d4]/10 border border-white backdrop-blur-sm transition-all duration-500 ease-in-out rounded-md w-1/5 py-1.5  hover:w-[30%]"
     >
       <img
         src={current.logo}
